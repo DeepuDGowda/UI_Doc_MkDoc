@@ -5,9 +5,9 @@ theme:
 nav:
   - Home: index.md
   - UX_writing: ux-writing.md
-  - UX / UI best practices: ux-ui-writing-doc.md
-  - UI/UX vs Figma: UX_UI_checklist.md
-  - UI/UX Example: UX_UI_example.md
+  - UX/UI best practices: ux-ui-writing-doc.md
+  - UI/UXvsFigma: UX_UI_checklist.md
+  - UI/UXExample: UX_UI_example.md
 
 extra:
-  generator: false
+  generator: falsels
